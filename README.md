@@ -14,7 +14,7 @@
 🌱 &nbsp;The brain fascinates me and you had me at Natural Language Processing.\
 ✉️ &nbsp;You can write to me at nirmal.works@outlook.com.
 
-## 🔧 Latest work
+## 🔧 Latest works
 - [Using snscrape and streamlit to build Twitter scrapping web app](https://nirmal7781-twitter-scrapping-twitter-scraping-t11msc.streamlit.app/)
 
 - [Using visualization libraries and streamlit to build Phonepe pulse visualization web app](https://nirmal7781-phonepe-pulse-home-01h2v4.streamlit.app/)
