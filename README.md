@@ -7,15 +7,16 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I am a Mechanical Engineer who, after preparing for the UPSC civil services exam for over three years, chose to transition into the field of data science.\
-🎓 &nbsp;I'm an alumnus of [TPGIT](https://tpgit.edu.in/). A proud TPGITian :D \
+💡 &nbsp;I am a Mechanical Engineer who, after preparing for the UPSC civil services exam, chose to transition into the field of data science.\
+🎓 &nbsp;I'm an alumnus of [TPGIT](https://tpgit.edu.in/). A proud TPGITian. \
 🎓 &nbsp;I'm currently a MBA student studying Human Resource and Personnel Management at the [University of Madras](https://www.unom.ac.in/). \
-🛠 &nbsp;My last project was creating [Phonepe Pulse Web App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://nirmal7781-phonepe-pulse-home-01h2v4.streamlit.app/) at [GUVI](https://www.guvi.in/). \
+🛠 &nbsp;My last project was creating [Phonepe Pulse Web App](https://nirmal7781-phonepe-pulse-home-01h2v4.streamlit.app/) at [GUVI](https://www.guvi.in/). \
 🌱 &nbsp;The brain fascinates me and you had me at Natural Language Processing.\
 ✉️ &nbsp;You can write to me at nirmal.works@outlook.com.
 
 ## 🔧 Latest work
 - [Using snscrape and streamlit to build Twitter scrapping web app](https://nirmal7781-twitter-scrapping-twitter-scraping-t11msc.streamlit.app/)
+
 - [Using visualization libraries and streamlit to build Phonepe pulse visualization web app](https://nirmal7781-phonepe-pulse-home-01h2v4.streamlit.app/)
 
 ## &#x270d; Latest posts
@@ -27,6 +28,7 @@
 ## 📖 &nbsp; Reading list
 
 - [ ] [Emotional Intelligence by Daniel Goleman](https://www.goodreads.com/book/show/26329.Emotional_Intelligence)
+
 - [ ] [A Thousand Splendid Suns by Khaled Hosseini](https://www.goodreads.com/book/show/128029.A_Thousand_Splendid_Suns)
 
 
@@ -46,4 +48,4 @@
 
 ### If you like what I do
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="nirmalkumar7781" data-color="#FFDD00" data-emoji="📖"  data-font="Cookie" data-text="Buy me a Book" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+<a href="https://www.buymeacoffee.com/nirmalkumar7781" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
