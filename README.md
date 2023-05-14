@@ -7,7 +7,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I am a Mechanical Engineer who, after preparing for the UPSC civil services exam, chose to transition into the field of Data Science.\
+💡 &nbsp;I am a Mechanical Engineer who chose to transition into the field of Data Science.\
 🎓 &nbsp;I'm an alumnus of [TPGIT](https://tpgit.edu.in/). A proud TPGITian. \
 🎓 &nbsp;I'm currently a MBA student studying Human Resource and Personnel Management at the [University of Madras](https://www.unom.ac.in/). \
 🛠 &nbsp;My last project was creating [Phonepe Pulse Web App](https://nirmal7781-phonepe-pulse-home-01h2v4.streamlit.app/) at [GUVI](https://www.guvi.in/). \
