@@ -11,7 +11,7 @@
 🎓 &nbsp;I'm an alumnus of [TPGIT](https://tpgit.edu.in/). A proud TPGITian. \
 🎓 &nbsp;I'm currently a MBA student studying Human Resource and Personnel Management at the [University of Madras](https://www.unom.ac.in/). \
 🛠 &nbsp;My last project was creating [Phonepe Pulse Web App](https://nirmal7781-phonepe-pulse-home-01h2v4.streamlit.app/) at [GUVI](https://www.guvi.in/). \
-🌱 &nbsp;The brain fascinates me and you had me at Natural Language Processing.\
+🌱 &nbsp;I am fascinated by the intersection of language and technology, and NLP is at the forefront of that intersection.\
 ✉️ &nbsp;You can write to me at nirmal.works@outlook.com.
 
 ## 🔧 Latest works
