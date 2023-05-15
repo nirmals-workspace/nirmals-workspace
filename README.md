@@ -43,7 +43,7 @@
 
 ## 📫 &nbsp; How to reach me:
 
-<a href="https://www.linkedin.com/in/nirmal-kumar-data-scientist/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/nirmal-kumar-data-scientist/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:nirmal.works@outlook.com"><img alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" /></a> &nbsp;
 
 ### If you like what I do
