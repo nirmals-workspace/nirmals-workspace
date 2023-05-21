@@ -1,6 +1,6 @@
 ## Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Nirmal
 ![version :14.05.2023](https://img.shields.io/badge/version-14.05.2023-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=Nirmal7781&color=red)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=nirmal-data-scientist&color=red)&nbsp;
 [![GitHub Nirmal7781](https://img.shields.io/github/followers/Nirmal7781?label=follow&style=social)](https://github.com/Nirmal7781)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
