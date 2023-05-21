@@ -19,6 +19,10 @@
 
 - [Using visualization libraries and streamlit to build Phonepe pulse visualization web app](https://nirmal7781-phonepe-pulse-home-01h2v4.streamlit.app/)
 
+## ⚡ Github Stats
+
+![Nirmal's Github Stats](https://github-readme-stats.vercel.app/api?username=nirmal-data-scientist&theme=dark)
+
 ## &#x270d; Latest posts
 
 - [Beyond LLMs: How to Achieve More with Less Data and Compute](https://medium.com/@nirmalkumar07781/beyond-llms-how-to-achieve-more-with-less-data-and-compute-5ce1d260bdb7)
