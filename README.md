@@ -21,7 +21,7 @@
 
 ## ⚡ Github Stats
 
-![Nirmal's Github Stats](https://github-readme-stats.vercel.app/api?username=nirmal-data-scientist&theme=dark)
+![Nirmal's Github Stats](https://github-readme-stats.vercel.app/api?username=nirmal-data-scientist&theme=transparent)
 
 ## &#x270d; Latest posts
 
