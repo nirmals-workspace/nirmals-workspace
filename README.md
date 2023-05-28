@@ -19,9 +19,9 @@
 
 - [Using visualization libraries and streamlit to build Phonepe pulse visualization web app](https://nirmal7781-phonepe-pulse-home-01h2v4.streamlit.app/)
 
-## ⚡ Github Stats
+<!--  ## ⚡ Github Stats -->
 
-![Nirmal's Github Stats](https://github-readme-stats.vercel.app/api?username=nirmal-data-scientist&theme=transparent)
+  <!-- ![Nirmal's Github Stats](https://github-readme-stats.vercel.app/api?username=nirmal-data-scientist&theme=transparent)-->
 
 ## &#x270d; Latest posts
 
