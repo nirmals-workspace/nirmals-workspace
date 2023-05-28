@@ -10,14 +10,14 @@
 💡 &nbsp;I am a Mechanical Engineer who chose to transition into the field of Data Science.\
 🎓 &nbsp;I'm an alumnus of [TPGIT](https://tpgit.edu.in/). A proud TPGITian. \
 🎓 &nbsp;I'm currently a MBA student studying Human Resource and Personnel Management at the [University of Madras](https://www.unom.ac.in/). \
-🛠 &nbsp;My last project was creating [Phonepe Pulse Web App](https://nirmal7781-phonepe-pulse-home-01h2v4.streamlit.app/) at [GUVI](https://www.guvi.in/). \
+🛠 &nbsp;My last project was creating [Phonepe Pulse Web App](https://nirmal-data-scientist-phonepe-pulse.streamlit.app/) at [GUVI](https://www.guvi.in/). \
 🌱 &nbsp;I am fascinated by the intersection of language and technology, and NLP is at the forefront of that intersection.\
 ✉️ &nbsp;You can write to me at nirmal.works@outlook.com.
 
 ## 🔧 Latest works
-- [Using snscrape and streamlit to build Twitter scrapping web app](https://nirmal7781-twitter-scrapping-twitter-scraping-t11msc.streamlit.app/)
+- [Using snscrape and streamlit to build Twitter scrapping web app](https://nirmal-data-scientist-twitter-data-fetching.streamlit.app/)
 
-- [Using visualization libraries and streamlit to build Phonepe pulse visualization web app](https://nirmal7781-phonepe-pulse-home-01h2v4.streamlit.app/)
+- [Using visualization libraries and streamlit to build Phonepe pulse visualization web app](https://nirmal-data-scientist-phonepe-pulse.streamlit.app/)
 
 <!--  ## ⚡ Github Stats -->
 
@@ -52,4 +52,4 @@
 
 ### If you like what I do
 
-<a href="https://www.buymeacoffee.com/nirmalkumar7781" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/nirmal.datageek" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
