@@ -15,9 +15,9 @@
 ✉️ &nbsp;You can write to me at nirmal.works@outlook.com.
 
 ## 🔧 Latest works
-- [Using snscrape and streamlit to build Twitter scrapping web app](https://nirmal-data-scientist-twitter-data-fetching.streamlit.app/)
+- [Using Snscrape and Streamlit to build Twitter Scrapping web app](https://nirmal-data-scientist-twitter-data-fetching.streamlit.app/)
 
-- [Using visualization libraries and streamlit to build Phonepe pulse visualization web app](https://nirmal-data-scientist-phonepe-pulse.streamlit.app/)
+- [Using Visualization libraries and Streamlit to build Phonepe Pulse Data Visualization web app](https://nirmal-data-scientist-phonepe-pulse.streamlit.app/)
 
 - [Using YouTube Data API v3 and streamlit among other tools to build Youtube Data Harvesting web app](https://nirmal-data-scientist-youtube-data-harvesting.streamlit.app/)
 
