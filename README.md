@@ -1,6 +1,4 @@
-<div id="header" style="text-align: center;">
-    Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Nirmal
-</div>
+# Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Nirmal
 
 ![version :14.05.2023](https://img.shields.io/badge/version-14.05.2023-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=nirmal-data-scientist&color=red)&nbsp;
