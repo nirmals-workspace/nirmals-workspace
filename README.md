@@ -64,4 +64,15 @@
 
 ---
 
-### 🍵 &nbsp; If you like what I do...<a href="https://www.buymeacoffee.com/nirmal.datageek" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+### 🍵 &nbsp; If you like what I do...
+<style>
+    .light-line {
+        border: none;
+        border-top: 1px solid lightgray;
+        margin: 10px 0;
+    }
+</style>
+
+<hr class="light-line">
+
+<a href="https://www.buymeacoffee.com/nirmal.datageek" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
