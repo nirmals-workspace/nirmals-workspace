@@ -68,6 +68,6 @@
 
 #
 
-[<img src="Related Images/BMB.png" alt="button image" style="border-radius: 10px;">](https://www.buymeacoffee.com/nirmal.datageek)
+[<img src="Related Images/BMB.png" alt="button image" style="border-radius: 10px; width: 200px;">](https://www.buymeacoffee.com/nirmal.datageek)
 
-<img src="Related Images/BMC-QR.png" alt="qr image" style="width: 310px;">
+<img src="Related Images/BMC-QR.png" alt="qr image" style="width: 200px;">
