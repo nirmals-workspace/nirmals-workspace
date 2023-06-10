@@ -5,7 +5,7 @@
 [![GitHub nirmal-data-scientist](https://img.shields.io/github/followers/nirmal-data-scientist?label=follow&style=social)](https://github.com/nirmal-data-scientist)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
-## 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I am a Mechanical Engineer who chose to transition into the field of Data Science.\
 🎓 &nbsp;I'm an alumnus of [TPGIT](https://tpgit.edu.in/). A proud TPGITian. \
@@ -16,7 +16,7 @@
 
 ---
 
-## 🔧 Latest works
+### 🔧 Latest works
 
 - [Using Snscrape and Streamlit to build Twitter Scrapping web app](https://nirmal-data-scientist-twitter-data-fetching.streamlit.app/)
 
@@ -26,11 +26,11 @@
 
 ---
 
-<!--  ## ⚡ Github Stats -->
+<!--  ### ⚡ Github Stats -->
 
   <!-- ![Nirmal's Github Stats](https://github-readme-stats.vercel.app/api?username=nirmal-data-scientist&theme=transparent)-->
 
-## &#x270d; Latest posts
+### &#x270d; Latest posts
 
 - [Beyond LLMs: How to Achieve More with Less Data and Compute](https://medium.com/@nirmalkumar07781/beyond-llms-how-to-achieve-more-with-less-data-and-compute-5ce1d260bdb7)
 
@@ -38,7 +38,7 @@
 
 ---
 
-## 📖 &nbsp; Reading list
+### 📖 &nbsp; Reading list
 
 - [ ] [Emotional Intelligence by Daniel Goleman](https://www.goodreads.com/book/show/26329.Emotional_Intelligence)
 
@@ -46,7 +46,7 @@
 
 ---
 
-## 🔧 Technologies & Tools
+### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
@@ -57,7 +57,7 @@
 
 ---
 
-## 📫 &nbsp; How to reach me:
+### 📫 &nbsp; How to reach me:
 
 <a href="https://www.linkedin.com/in/nirmal-kumar-data-scientist/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:nirmal.works@outlook.com"><img alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" /></a> &nbsp;
