@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" style="text-align: center;">
     Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Nirmal
 </div>
 
