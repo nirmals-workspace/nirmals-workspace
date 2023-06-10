@@ -1,11 +1,9 @@
 ## Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Nirmal
----
+
 ![version :14.05.2023](https://img.shields.io/badge/version-14.05.2023-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=nirmal-data-scientist&color=red)&nbsp;
 [![GitHub nirmal-data-scientist](https://img.shields.io/github/followers/nirmal-data-scientist?label=follow&style=social)](https://github.com/nirmal-data-scientist)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
-
----
 
 ## 👨🏻‍💻 &nbsp;About Me
 
@@ -19,6 +17,7 @@
 ---
 
 ## 🔧 Latest works
+
 - [Using Snscrape and Streamlit to build Twitter Scrapping web app](https://nirmal-data-scientist-twitter-data-fetching.streamlit.app/)
 
 - [Using Visualization libraries and Streamlit to build Phonepe Pulse Data Visualization web app](https://nirmal-data-scientist-phonepe-pulse.streamlit.app/)
