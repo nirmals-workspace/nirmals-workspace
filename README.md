@@ -65,13 +65,6 @@
 ---
 
 ### 🍵 &nbsp; If you like what I do...
-<style>
-    .light-line {
-        border: none;
-        border-top: 1px solid lightgray;
-        margin: 10px 0;
-    }
-</style>
 
 <hr class="light-line">
 
