@@ -64,7 +64,7 @@
 
 ---
 
-### 🍵 &nbsp; If you like what I do...
+### 📖 &nbsp; If you like what I do...
 
 #
 
