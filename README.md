@@ -59,7 +59,7 @@
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-JupyterNotebook-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Spyder-informational?style=flat&logo=spyder-ide&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Spyder-informational?style=flat&logo=spyder-ide&logoColor=white&color=2bbc8a) &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
 ![](https://img.shields.io/badge/Editor-GoogleColab-informational?style=flat&logo=googlecolab&logoColor=white&color=2bbc8a)
 
 ---
