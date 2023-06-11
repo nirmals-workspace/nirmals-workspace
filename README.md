@@ -62,10 +62,10 @@
 
 ### 💼 Integrated Development Environments
 
-<a href="" target="blank"><img align="center" src="Related Images/vscode.svg" alt="Colaboratory" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="Related Images/spyderide.svg" alt="Colaboratory" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Colaboratory" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="Related Images/google-colab.svg" alt="Colaboratory" height="30" width="40" /></a>
+<a href="https://code.visualstudio.com/" target="blank"><img align="center" src="Related Images/vscode.svg" alt="VS Code" height="30" width="40" /></a>
+<a href="https://www.spyder-ide.org/" target="blank"><img align="center" src="Related Images/spyderide.svg" alt="Spyder" height="30" width="40" /></a>
+<a href="https://jupyter.org/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" height="30" width="40" /></a>
+<a href="https://colab.google/" target="blank"><img align="center" src="Related Images/google-colab.svg" alt="Colaboratory" height="30" width="40" /></a>
 
 ---
 
