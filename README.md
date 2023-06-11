@@ -92,4 +92,6 @@
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Stats" />
  <h3 align="center">GitHub Stats</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirmal-data-scientist&" alt="nirmal-data-scientist" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirmal-data-scientist&" alt="nirmal-data-scientist" />
+</p>
