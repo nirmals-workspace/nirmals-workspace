@@ -54,12 +54,12 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p> 
 
 ---
 
-### 🔧 Integrated Development Environments
+### 💼 Integrated Development Environments
 
 ![](https://img.shields.io/badge/Editor-JupyterNotebook-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
@@ -68,7 +68,7 @@
 
 ---
 
-### 📫 &nbsp; How to reach me:
+### 📫 How to reach me:
 
 <br>
 
@@ -76,17 +76,17 @@
 <a href="https://twitter.com/nirmal_datageek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nirmal_datageek" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nirmal-kumar-data-scientist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirmal-kumar-data-scientist" height="30" width="40" /></a>
 <a href="https://medium.com/@nirmal-data-scientist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nirmal-data-scientist" height="30" width="40" /></a>
-<a href="/https://nirmalneuralnet.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://nirmalneuralnet.blogspot.com/" height="30" width="40" /></a>
-</p>
 
 ---
 
-### 💛 &nbsp; If you like what I do...
+### 💛 If you like what I do...
 
 #
 
 [<img src="Related Images/image.png" alt="button image" style="border-radius: 10px; width: 200px;">](https://www.buymeacoffee.com/nirmal.datageek)
 
 <img src="Related Images/BMC-QR.png" alt="qr image" style="width: 200px;">
+
+### ⚔️ GitHub Stats:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirmal-data-scientist&" alt="nirmal-data-scientist" /></p>
