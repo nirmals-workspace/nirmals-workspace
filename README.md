@@ -79,16 +79,16 @@
 
 ---
 
+### ⚔️ GitHub Stats:
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirmal-data-scientist&" alt="nirmal-data-scientist" /></p>  
+  
 ### 💛 If you like what I do...
 
-#
+ ---
+
+ #
 
 [<img src="Related Images/image.png" alt="button image" style="border-radius: 10px; width: 200px;">](https://www.buymeacoffee.com/nirmal.datageek)
 
 <img src="Related Images/BMC-QR.png" alt="qr image" style="width: 200px;">
-
----
-
-### ⚔️ GitHub Stats:
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirmal-data-scientist&" alt="nirmal-data-scientist" /></p>
