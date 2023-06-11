@@ -87,6 +87,8 @@
 
 <img src="Related Images/BMC-QR.png" alt="qr image" style="width: 200px;">
 
+---
+
 ### ⚔️ GitHub Stats:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirmal-data-scientist&" alt="nirmal-data-scientist" /></p>
