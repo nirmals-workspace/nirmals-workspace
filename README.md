@@ -38,9 +38,9 @@
 
 ### &#x270d; Latest posts
 
-- [Beyond LLMs: How to Achieve More with Less Data and Compute](https://medium.com/@nirmalkumar07781/beyond-llms-how-to-achieve-more-with-less-data-and-compute-5ce1d260bdb7)
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nirmal-data-scientist/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nirmal-data-scientist/0" alt="Recent Article 0">
 
-- [Breaking Barriers: How LLMs Excel as Few Shot Learners](https://medium.com/@nirmalkumar07781/breaking-barriers-how-llms-excel-as-few-shot-learners-c6f906aabe20)
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nirmal-data-scientist/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nirmal-data-scientist/1" alt="Recent Article 1">
 
 ---
 
