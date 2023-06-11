@@ -2,12 +2,14 @@
   <h1>Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Nirmal</h1>
 </div>
 
+<h3 align="center">A Process Oriented Data Scientist From India</h3> <br>
+
 <p align="center">
-    <img src="https://img.shields.io/badge/version-14.05.2023-informational" alt="version">
     <img src="https://komarev.com/ghpvc/?username=nirmal-data-scientist&color=red" alt="profile count">
     <a href="https://github.com/nirmal-data-scientist">
         <img src="https://img.shields.io/github/followers/nirmal-data-scientist?label=follow&style=social" alt="GitHub followers">
     </a>
+    <img src="https://img.shields.io/badge/version-14.05.2023-informational" alt="version">
     <img src="https://img.shields.io/badge/build-passing-success" alt="build">
 </p>
 
@@ -52,13 +54,13 @@
 
 ---
 
-### 🔧 Technologies & Tools
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p> 
 
-<br>
+---
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+### 🔧 Integrated Development Environments
+
 ![](https://img.shields.io/badge/Editor-JupyterNotebook-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Spyder-informational?style=flat&logo=spyder-ide&logoColor=white&color=2bbc8a)
@@ -66,16 +68,25 @@
 
 ---
 
-### 📫 How to reach me:
+### 📫 &nbsp; How to reach me:
 
-<a href="https://www.linkedin.com/in/nirmal-kumar-data-scientist/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:nirmal.works@outlook.com"><img alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" /></a> &nbsp;
+<br>
+
+<p align="left">
+<a href="https://twitter.com/nirmal_datageek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nirmal_datageek" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nirmal-kumar-data-scientist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirmal-kumar-data-scientist" height="30" width="40" /></a>
+<a href="https://medium.com/@nirmal-data-scientist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nirmal-data-scientist" height="30" width="40" /></a>
+<a href="/https://nirmalneuralnet.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://nirmalneuralnet.blogspot.com/" height="30" width="40" /></a>
+</p>
 
 ---
 
-### 💛 If you like what I do...
+### 💛 &nbsp; If you like what I do...
 
 #
-[<img src="Related Images/image.png" alt="button image" style="border-radius: 10px; width: 200px;">](https://www.buymeacoffee.com/nirmal.datageek) <br>
+
+[<img src="Related Images/image.png" alt="button image" style="border-radius: 10px; width: 200px;">](https://www.buymeacoffee.com/nirmal.datageek)
 
 <img src="Related Images/BMC-QR.png" alt="qr image" style="width: 200px;">
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirmal-data-scientist&" alt="nirmal-data-scientist" /></p>
