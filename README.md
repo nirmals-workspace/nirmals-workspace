@@ -53,20 +53,22 @@
 ---
 
 ### 🔧 Technologies & Tools
-&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+
+<br>
+
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-JupyterNotebook-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Spyder-informational?style=flat&logo=spyder-ide&logoColor=white&color=2bbc8a) &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+![](https://img.shields.io/badge/Editor-Spyder-informational?style=flat&logo=spyder-ide&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-GoogleColab-informational?style=flat&logo=googlecolab&logoColor=white&color=2bbc8a)
 
 ---
 
 ### 📫 How to reach me:
 
-&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/nirmal-kumar-data-scientist/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/nirmal-kumar-data-scientist/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:nirmal.works@outlook.com"><img alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" /></a> &nbsp;
 
 ---
@@ -74,7 +76,6 @@
 ### 💛 If you like what I do...
 
 #
-&nbsp; &nbsp; &nbsp; &nbsp; 
 [<img src="Related Images/image.png" alt="button image" style="border-radius: 10px; width: 200px;">](https://www.buymeacoffee.com/nirmal.datageek) <br>
-&nbsp; &nbsp; &nbsp; &nbsp; 
+
 <img src="Related Images/BMC-QR.png" alt="qr image" style="width: 200px;">
