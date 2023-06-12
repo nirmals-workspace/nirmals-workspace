@@ -110,12 +110,9 @@
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Stats" />
  <h3 align="center">GitHub Stats</h3>
 
- <p align="center">
-<!-- <a href="https://github.com/MoulinLouis">
- <img src="https://github-readme-stats.vercel.app/api?username=Nirmal-Data-Scientist&show_icons=true&text_color=000&icon_color=000&bg_color=0,F5F7FA,B8C6DB&theme=graywhite" height="165"> -->
-</a>
-<a href="https://github.com/Nirmal-Data-Scientist">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirmal-Data-Scientist&layout=compact&text_color=000&icon_color=fff&bg_color=0,B8C6DB,F5F7FA&theme=graywhite"  height="165">
+<p align="center">
+<a href="https://github.com/nirmal-data-scientist">
+ <img src="https://github-readme-stats.vercel.app/api?username=Nirmal-Data-Scientist&show_icons=true&text_color=000&icon_color=000&bg_color=0,F5F7FA,B8C6DB&theme=graywhite&hide_rank=true" height="165" width="900">
 </a>
 </p>
 
