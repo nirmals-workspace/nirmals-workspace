@@ -92,7 +92,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/nirmal-kumar-data-scientist" target="blank"><img align="center" src="Related Images/linkedin.svg" alt="nirmal-kumar-data-scientist" height="30" width="40" /></a>
 <a href="https://twitter.com/nirmal_datageek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nirmal_datageek" height="30" width="40" /></a>
-<a href="https://medium.com/@nirmal-data-scientist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nirmal-data-scientist" height="30" width="40" /></a>
+<a href="https://nirmal-data-scientist.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nirmal-data-scientist" height="30" width="40" /></a>
 
  ---
 
