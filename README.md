@@ -9,7 +9,7 @@
     <a href="https://github.com/nirmal-data-scientist">
         <img src="https://img.shields.io/github/followers/nirmal-data-scientist?label=follow&style=social" alt="GitHub followers">
     </a>
-    <img src="https://img.shields.io/badge/version-14.05.2023-informational" alt="version">
+    <img src="https://img.shields.io/badge/version-14.06.2023-informational" alt="version">
     <img src="https://img.shields.io/badge/build-passing-success" alt="build">
 </p>
 
