@@ -52,6 +52,10 @@
 
 - [ ] [A Thousand Splendid Suns by Khaled Hosseini](https://www.goodreads.com/book/show/128029.A_Thousand_Splendid_Suns)
 
+<br>
+
+<a href="https://app.daily.dev/Nirmal"><img src="https://api.daily.dev/devcards/b7651446307a4f388429761bd2c868fe.png?r=v6l" width="350" alt="Nirmal's Dev Card"/></a>
+
 ---
 
 <h3>🛠️ Languages and Tools</h3>
