@@ -54,7 +54,7 @@
 
 <br>
 
-<a href="https://app.daily.dev/Nirmal"><img src="https://api.daily.dev/devcards/b7651446307a4f388429761bd2c868fe.png?r=v6l" width="350" alt="Nirmal's Dev Card"/></a>
+<a href="https://app.daily.dev/Nirmal"><img src="devcard.svg" width="350" alt="Nirmal's Dev Card"/></a>
 
 ---
 
