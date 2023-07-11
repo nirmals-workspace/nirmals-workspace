@@ -9,7 +9,7 @@
     <a href="https://github.com/nirmal-data-scientist">
         <img src="https://img.shields.io/github/followers/nirmal-data-scientist?label=follow&style=social" alt="GitHub followers">
     </a>
-    <img src="https://img.shields.io/badge/version-14.05.2023-informational" alt="version">
+    <img src="https://img.shields.io/badge/version-14.06.2023-informational" alt="version">
     <img src="https://img.shields.io/badge/build-passing-success" alt="build">
 </p>
 
@@ -18,7 +18,7 @@
 💡 &nbsp;I am a Mechanical Engineer who chose to transition into the field of Data Science.\
 🎓 &nbsp;I'm an alumnus of [TPGIT](https://tpgit.edu.in/). A proud TPGITian. \
 🎓 &nbsp;I'm currently a MBA student studying Human Resource and Personnel Management at the [University of Madras](https://www.unom.ac.in/). \
-🛠 &nbsp;My last project was creating [Youtube Data Harvesting and Warehousing Web App](https://nirmal-data-scientist-youtube-data-harvesting.streamlit.app/) at [GUVI](https://www.guvi.in/). \
+🛠 &nbsp;My last project was creating [Youtube Data Harvesting and Warehousing Web App](https://youtube-data-harvesting.streamlit.app/) at [GUVI](https://www.guvi.in/). \
 🌱 &nbsp;I am fascinated by the intersection of language and technology, and NLP is at the forefront of that intersection.\
 ✉️ &nbsp;You can write to me at nirmal.works@outlook.com.
 
@@ -26,11 +26,11 @@
 
 ### 🔧 Latest works
 
-- [Using Snscrape and Streamlit to build Twitter Scrapping web app](https://nirmal-data-scientist-twitter-data-fetching.streamlit.app/)
+- [Using Snscrape and Streamlit to build Twitter Scrapping web app](https://twitter-data-fetching.streamlit.app/)
 
-- [Using Visualization libraries and Streamlit to build Phonepe Pulse Data Visualization web app](https://nirmal-data-scientist-phonepe-pulse.streamlit.app/)
+- [Using Visualization libraries and Streamlit to build Phonepe Pulse Data Visualization web app](https://phonepe-pulse.streamlit.app/)
 
-- [Using YouTube Data API v3 and streamlit among other tools to build Youtube Data Harvesting web app](https://nirmal-data-scientist-youtube-data-harvesting.streamlit.app/)
+- [Using YouTube Data API v3 and streamlit among other tools to build Youtube Data Harvesting web app](https://youtube-data-harvesting.streamlit.app/)
 
 ---
 
@@ -52,9 +52,13 @@
 
 - [ ] [A Thousand Splendid Suns by Khaled Hosseini](https://www.goodreads.com/book/show/128029.A_Thousand_Splendid_Suns)
 
+<br>
+
+<a href="https://app.daily.dev/Nirmal"><img src="devcard.svg" width="325" alt="Nirmal's Dev Card"/></a>
+
 ---
 
-<h3>🛠️ Languages and Tools:</h3>
+<h3>🛠️ Languages and Tools</h3>
 
 <p>
 
@@ -95,7 +99,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/nirmal-kumar-data-scientist" target="blank"><img align="center" src="Related Images/linkedin.svg" alt="nirmal-kumar-data-scientist" height="30" width="40" /></a>
 <a href="https://twitter.com/nirmal_datageek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nirmal_datageek" height="30" width="40" /></a>
-<a href="https://medium.com/@nirmal-data-scientist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nirmal-data-scientist" height="30" width="40" /></a>
+<a href="https://nirmal-data-scientist.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nirmal-data-scientist" height="30" width="40" /></a>
 
  ---
 
@@ -114,5 +118,13 @@
  <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirmal-data-scientist&" alt="nirmal-data-scientist" />
+<a href="https://github.com/nirmal-data-scientist">
+ <img src="https://github-readme-stats.vercel.app/api?username=Nirmal-Data-Scientist&show_icons=true&text_color=000&icon_color=000&bg_color=0,F5F7FA,B8C6DB&theme=graywhite&hide_rank=true&hide_title=true" height="165" width="900">
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/Nirmal-Data-Scientist">
+ <img src="http://github-readme-streak-stats.herokuapp.com?user=Nirmal-Data-Scientist&theme=react&background=0d1117&border=666">
+</a>
 </p>
