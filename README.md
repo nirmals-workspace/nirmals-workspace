@@ -30,7 +30,7 @@
 
 - [Using Sci-kit Learn and Streamlit to build Breast Cancer Prediction Web App](https://breast-cancer-prediction.streamlit.app/)
 
-- [Using YouTube Data API v3 and streamlit among other tools to build Youtube Data Harvesting web app](https://youtube-data-harvesting.streamlit.app/)
+- [Using YouTube Data API v3 and Streamlit among other tools to build Youtube Data Harvesting web app](https://youtube-data-harvesting.streamlit.app/)
 
 ---
 
