@@ -18,7 +18,7 @@
 💡 &nbsp;I am a Mechanical Engineer who chose to transition into the field of Data Science.\
 🎓 &nbsp;I'm an alumnus of [TPGIT](https://tpgit.edu.in/). A proud TPGITian. \
 🎓 &nbsp;I'm currently a MBA student studying Human Resource and Personnel Management at the [University of Madras](https://www.unom.ac.in/). \
-🛠 &nbsp;My last project was creating [Youtube Data Harvesting and Warehousing Web App](https://youtube-data-harvesting.streamlit.app/) at [GUVI](https://www.guvi.in/). \
+🛠 &nbsp;My last project was [Term-Deposit-Subscription-Prediction Model Building](https://term-deposit-subscription-prediction.netlify.app) at [GUVI](https://www.guvi.in/). \
 🌱 &nbsp;I am fascinated by the intersection of language and technology, and NLP is at the forefront of that intersection.\
 ✉️ &nbsp;You can write to me at nirmal.works@outlook.com.
 
@@ -26,9 +26,9 @@
 
 ### 🔧 Latest works
 
-- [Using Snscrape and Streamlit to build Twitter Scrapping web app](https://twitter-data-fetching.streamlit.app/)
+- [Using Sci-kit Learn to build Term-Deposit-Subscription-Prediction Model](https://term-deposit-subscription-prediction.netlify.app)
 
-- [Using Visualization libraries and Streamlit to build Phonepe Pulse Data Visualization web app](https://phonepe-pulse.streamlit.app/)
+- [Using Sci-kit Learn and Streamlit to build Breast Cancer Prediction Web App](https://breast-cancer-prediction.streamlit.app/)
 
 - [Using YouTube Data API v3 and streamlit among other tools to build Youtube Data Harvesting web app](https://youtube-data-harvesting.streamlit.app/)
 
