@@ -5,9 +5,9 @@
 <h3 align="center">A Process Oriented Data Scientist From India</h3> <br>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=nirmal-data-scientist&color=red" alt="profile count">
-    <a href="https://github.com/nirmal-data-scientist">
-        <img src="https://img.shields.io/github/followers/nirmal-data-scientist?label=follow&style=social" alt="GitHub followers">
+    <img src="https://komarev.com/ghpvc/?username=nirmals-workspace&color=red" alt="profile count">
+    <a href="https://github.com/nirmals-workspace">
+        <img src="https://img.shields.io/github/followers/nirmals-workspace?label=follow&style=social" alt="GitHub followers">
     </a>
     <img src="https://img.shields.io/badge/version-17.08.2023-informational" alt="version">
     <img src="https://img.shields.io/badge/build-passing-success" alt="build">
@@ -36,13 +36,13 @@
 
 <!--  ### ⚡ Github Stats -->
 
-  <!-- ![Nirmal's Github Stats](https://github-readme-stats.vercel.app/api?username=nirmal-data-scientist&theme=transparent)-->
+  <!-- ![Nirmal's Github Stats](https://github-readme-stats.vercel.app/api?username=nirmals-workspace&theme=transparent)-->
 
 ### &#x270d; Latest posts
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nirmal-data-scientist/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nirmal-data-scientist/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nirmals-workspace/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nirmals-workspace/0" alt="Recent Article 0">
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nirmal-data-scientist/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nirmal-data-scientist/1" alt="Recent Article 1">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nirmals-workspace/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nirmals-workspace/1" alt="Recent Article 1">
 
 ---
 
@@ -103,7 +103,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/nirmal-kumar-data-scientist" target="blank"><img align="center" src="Related Images/linkedin.svg" alt="nirmal-kumar-data-scientist" height="30" width="40" /></a>
 <a href="https://twitter.com/nirmal_datageek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nirmal_datageek" height="30" width="40" /></a>
-<a href="https://nirmal-data-scientist.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nirmal-data-scientist" height="30" width="40" /></a>
+<a href="https://nirmals-workspace.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nirmals-workspace" height="30" width="40" /></a>
 
  ---
 
@@ -122,13 +122,13 @@
  <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-<a href="https://github.com/nirmal-data-scientist">
- <img src="https://github-readme-stats.vercel.app/api?username=Nirmal-Data-Scientist&show_icons=true&text_color=000&icon_color=000&bg_color=0,F5F7FA,B8C6DB&theme=graywhite&hide_rank=true&hide_title=true" height="165" width="900">
+<a href="https://github.com/nirmals-workspace">
+ <img src="https://github-readme-stats.vercel.app/api?username=nirmals-workspace&show_icons=true&text_color=000&icon_color=000&bg_color=0,F5F7FA,B8C6DB&theme=graywhite&hide_rank=true&hide_title=true" height="165" width="900">
 </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/Nirmal-Data-Scientist">
- <img src="http://github-readme-streak-stats.herokuapp.com?user=Nirmal-Data-Scientist&theme=react&background=0d1117&border=666">
+<a href="https://github.com/nirmals-workspace">
+ <img src="http://github-readme-streak-stats.herokuapp.com?user=nirmals-workspace&theme=react&background=0d1117&border=666">
 </a>
 </p>
