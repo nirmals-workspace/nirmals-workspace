@@ -40,9 +40,9 @@
 
 ### &#x270d; Latest posts
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nirmals-workspace/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nirmals-workspace/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nirmals-workspace/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nirmal-data-scientist/0" alt="Recent Article 0">
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nirmals-workspace/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nirmals-workspace/1" alt="Recent Article 1">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nirmal-data-scientist/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nirmals-workspace/1" alt="Recent Article 1">
 
 ---
 
