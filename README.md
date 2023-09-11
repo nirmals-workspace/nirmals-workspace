@@ -9,7 +9,7 @@
     <a href="https://github.com/nirmals-workspace">
         <img src="https://img.shields.io/github/followers/nirmals-workspace?label=follow&style=social" alt="GitHub followers">
     </a>
-    <img src="https://img.shields.io/badge/version-17.08.2023-informational" alt="version">
+    <img src="https://img.shields.io/badge/version-11.09.2023-informational" alt="version">
     <img src="https://img.shields.io/badge/build-passing-success" alt="build">
 </p>
 
