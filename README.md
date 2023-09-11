@@ -18,7 +18,7 @@
 💡 &nbsp;I am a Mechanical Engineer who chose to transition into the field of Data Science.\
 🎓 &nbsp;I'm an alumnus of [TPGIT](https://tpgit.edu.in/). A proud TPGITian. \
 🎓 &nbsp;I'm currently an MBA student studying Human Resource and Personnel Management at the [University of Madras](https://www.unom.ac.in/). \
-🛠 &nbsp;My last project was [Copper price prediction and leads classification](https://industrial-copper-modelling.streamlit.app/) at [GUVI](https://www.guvi.in/). \
+🛠 &nbsp;My last project was [Blog Scraping, Textual and Sentiment Analysis](https://blog-scraping-and-analysis.netlify.app/) at [GUVI](https://www.guvi.in/). \
 🌱 &nbsp;I am fascinated by the intersection of language and technology, and NLP is at the forefront of that intersection.\
 ✉️ &nbsp;You can write to me at nirmal.works@outlook.com.
 
@@ -26,11 +26,15 @@
 
 ### 🔧 Latest works
 
-- [Using Sci-kit Learn and streamlit to build Copper price prediction and leads classification app](https://industrial-copper-modelling.streamlit.app/)
+- [Using Sci-kit Learn and Data Visualization libraries to segment and analyse patients based on prescription patterns](https://patient-segmentation-and-analysis.netlify.app)
 
-- [Using Sci-kit Learn and Streamlit to build Breast Cancer Prediction Web App](https://breast-cancer-prediction.streamlit.app/)
+- [Using Langchain's ConversationChain and ConversationalBufferMemory to generate MCQs with multiple correct options](https://langchain-mcq-generation.netlify.app)
+
+- [Using Sci-kit Learn and streamlit to build Copper price prediction and leads classification web app](https://industrial-copper-modelling.streamlit.app/)
 
 - [Using YouTube Data API v3 and Streamlit among other tools to build Youtube Data Harvesting web app](https://youtube-data-harvesting.streamlit.app/)
+
+- [Using Sci-kit Learn and Streamlit to build Breast Cancer Prediction Web App](https://breast-cancer-prediction.streamlit.app/)
 
 ---
 
@@ -40,9 +44,9 @@
 
 ### &#x270d; Latest posts
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nirmals-workspace/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nirmal-data-scientist/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nirmal-ai/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nirmal-ai/0" alt="Recent Article 0">
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nirmal-data-scientist/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nirmals-workspace/1" alt="Recent Article 1">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nirmal-ai/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nirmal-ai/1" alt="Recent Article 1">
 
 ---
 
@@ -83,6 +87,7 @@
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> </a>
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="Related Images/streamlit.svg" alt="streamlit" width="40" height="40"/> </a>
+<a href="https://docs.langchain.com/docs/" target="_blank" rel="noreferrer"> <img src="https://python.langchain.com/img/favicon.ico" alt="streamlit" width="40" height="40"/> </a>
 
 </p> 
 
